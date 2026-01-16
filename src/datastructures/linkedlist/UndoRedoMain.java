@@ -1,4 +1,4 @@
-package data_structures.linkedlist;
+package datastructures.linkedlist;
 
 // Node class (Doubly Linked List)
 class TextStateNode {

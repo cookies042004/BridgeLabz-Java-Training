@@ -1,4 +1,4 @@
-package data_structures.linkedlist;
+package datastructures.linkedlist;
 
 class Student {
     int rollNo;
