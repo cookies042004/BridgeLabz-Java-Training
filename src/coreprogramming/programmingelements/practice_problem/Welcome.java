@@ -1,0 +1,7 @@
+package coreprogramming.programmingelements.practice_problem;
+
+public class Welcome {
+    public static void main(String[] args){
+        System.out.println("Welcome to Bridgelabz!");
+    }
+}
