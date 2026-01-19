@@ -38,3 +38,7 @@
 
 • 14-Jan-2026 (Wednesday): Studied Data Structures Introduction & LinkedList; completed LinkedList practice submission.
 
+• 16-Jan-2026 (Friday): Updated git structure and studied stack and queue.
+
+• 17-Jan-2026 (Saturday): Studied and practice sorting algorithms.
+
