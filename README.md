@@ -42,3 +42,8 @@
 
 • 17-Jan-2026 (Saturday): Studied and practice sorting algorithms.
 
+• 19-Jan-2026 (Monday): Studied linear search and binary search and Week-2 review is given.
+
+• 20-Jan-2026 (Tuesday): Practice problems on linear search and binary search.
+
+• 21-Jan-2026 (Wednesday): Studied and practice problem on runtime analysis.
