@@ -47,3 +47,11 @@
 • 20-Jan-2026 (Tuesday): Practice problems on linear search and binary search.
 
 • 21-Jan-2026 (Wednesday): Studied and practice problem on runtime analysis.
+
+• 22-Jan-2026 (Thursday): Completed remaining problems on runtime analysis.
+
+• 23-Jan-2026 (Friday): Completed project till use-case three.
+
+• 24-Jan-2026 (Saturday): Completed project till use-case eight and review done.
+
+• 27-Jan-2026 (Tuesday): Studied and practice some problems on java generics.
