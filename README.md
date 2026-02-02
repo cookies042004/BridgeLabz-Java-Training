@@ -55,3 +55,11 @@
 • 24-Jan-2026 (Saturday): Completed project till use-case eight and review done.
 
 • 27-Jan-2026 (Tuesday): Studied and practice some problems on java generics.
+
+• 28-Jan-2026 (Wednesday): Studied and practice some problems on java collections.
+
+• 29-Jan-2026 (Thursday): Completed java generics and started assigned project.
+
+• 30-Jan-2026 (Friday): Give review and completed the project.
+
+• 31-Jan-2026 (Saturday): Studied and practice problems on java iostreams.
