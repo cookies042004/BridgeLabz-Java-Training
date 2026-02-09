@@ -63,3 +63,17 @@
 • 30-Jan-2026 (Friday): Give review and completed the project.
 
 • 31-Jan-2026 (Saturday): Studied and practice problems on java iostreams.
+
+• 02-Feb-2026 (Monday): Studied and practice problems on java exception.
+
+• 03-Feb-2026 (Tuesday): Completed remaining problems on java exception.
+
+• 04-Fdb-2026 (Wednesday): Studied and practice problems on java regex.
+
+• 05-Feb-2026 (Thursday): Studied and practice problems on java junit.
+
+• 06-Feb-2026 (Friday): Completed practice problems on java junit and done with review.
+
+• 07-Feb-2026 (Saturday): Session-1 Soft-Skills.
+
+• 09-Feb-2026 (Monday): Studied and practice problems on java8features.
