@@ -77,3 +77,12 @@
 • 07-Feb-2026 (Saturday): Session-1 Soft-Skills.
 
 • 09-Feb-2026 (Monday): Studied and practice problems on java8features.
+
+• 10-Feb-2026 (Tuesday): Studied and practice problems on Streams API.
+
+• 11-Feb-2026 (Wednesday): Completed practice problems on Streams API.
+
+• 12-Feb-2026 (Thursday): Studied and practice problems on CSV Data Handling.
+
+• 13-Feb-2026 (Friday): Completed Lexical Twist Puzzle Task.
+
