@@ -86,3 +86,10 @@
 
 • 13-Feb-2026 (Friday): Completed Lexical Twist Puzzle Task.
 
+• 14-Feb-2026 (Saturday): Done PowerSkills session.
+
+• 16-Feb-2026 (Monday): Studied Tree and Graph data structure.
+
+• 17-Feb-2026 (Tuesday): Completed problems on tree data structure and done with review.
+
+• 18-Feb-2026 (Wednesday): Completed tree data structure and graph data structure.
