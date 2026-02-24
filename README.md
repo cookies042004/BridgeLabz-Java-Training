@@ -68,7 +68,7 @@
 
 • 03-Feb-2026 (Tuesday): Completed remaining problems on java exception.
 
-• 04-Fdb-2026 (Wednesday): Studied and practice problems on java regex.
+• 04-Feb-2026 (Wednesday): Studied and practice problems on java regex.
 
 • 05-Feb-2026 (Thursday): Studied and practice problems on java junit.
 
@@ -93,3 +93,13 @@
 • 17-Feb-2026 (Tuesday): Completed problems on tree data structure and done with review.
 
 • 18-Feb-2026 (Wednesday): Completed tree data structure and graph data structure.
+
+• 19-Feb-2026 (Thursday): Completed CSV files.
+
+• 20-Feb-2026 (Friday): Studied reflection and annotation.
+
+• 21-Feb-2026 (Saturday): Completed power skills session-3.
+
+• 23-Feb-2026 (Monday): Completed Design Patterns and Design Principles.
+
+• 24-Feb-2026 (Tuesday): Completed Multi-Threading.
