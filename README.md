@@ -103,3 +103,17 @@
 • 23-Feb-2026 (Monday): Completed Design Patterns and Design Principles.
 
 • 24-Feb-2026 (Tuesday): Completed Multi-Threading.
+
+• 25-Feb-2026 (Wednesday): Completed MySQL.
+
+• 26-Feb-2026 (Thursday): Completed ER Diagram and JDBC.
+
+• 27-Feb-2026 (Friday): Completed use case of QuantityMeasurementApp.
+
+• 28-Feb-2026 (Saturday): Completed power skills session-4.
+
+• 02-March-2026 (Monday): Completed QuantityMeasurementApp.
+    
+• 03-March-2026 (Tuesday): Completed JDBC Transaction Practice Problems.
+
+• 04-March-2026 (Thursday): Completed JSON Data.
