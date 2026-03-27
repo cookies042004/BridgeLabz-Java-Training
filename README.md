@@ -74,7 +74,7 @@
 
 • 06-Feb-2026 (Friday): Completed practice problems on java junit and done with review.
 
-• 07-Feb-2026 (Saturday): Session-1 Soft-Skills.
+• 07-Feb-2026 (Saturday): Attended Session-1 Soft-Skills.
 
 • 09-Feb-2026 (Monday): Studied and practice problems on java8features.
 
@@ -86,7 +86,7 @@
 
 • 13-Feb-2026 (Friday): Completed Lexical Twist Puzzle Task.
 
-• 14-Feb-2026 (Saturday): Done PowerSkills session.
+• 14-Feb-2026 (Saturday): Attended PowerSkills session.
 
 • 16-Feb-2026 (Monday): Studied Tree and Graph data structure.
 
@@ -98,13 +98,13 @@
 
 • 20-Feb-2026 (Friday): Studied reflection and annotation.
 
-• 21-Feb-2026 (Saturday): Completed power skills session-3.
+• 21-Feb-2026 (Saturday): Attended power skills session-3.
 
 • 23-Feb-2026 (Monday): Completed Design Patterns and Design Principles.
 
 • 24-Feb-2026 (Tuesday): Completed Multi-Threading.
 
-• 25-Feb-2026 (Wednesday): Completed MySQL.
+• 25-Feb-2026 (Wednesday): Completed MySQL Practice.
 
 • 26-Feb-2026 (Thursday): Completed ER Diagram and JDBC.
 
@@ -112,8 +112,42 @@
 
 • 28-Feb-2026 (Saturday): Completed power skills session-4.
 
-• 02-March-2026 (Monday): Completed QuantityMeasurementApp.
-    
-• 03-March-2026 (Tuesday): Completed JDBC Transaction Practice Problems.
+- 02-March-2026 (Monday): Completed Quantity Measurement Application development.
 
-• 04-March-2026 (Thursday): Completed JSON Data.
+- 03-March-2026 (Tuesday): Practiced JDBC Transactions through problem-solving.
+
+- 04-March-2026 (Wednesday): Worked with and completed JSON data handling.
+
+- 05-March-2026 (Thursday): Initiated learning of Tomcat Servlet.
+
+- 06-March-2026 (Friday): Completed hands-on practice with Tomcat Servlet Server.
+
+- 07-March-2026 (Saturday): Attended Power Skills Session.
+
+- 09-March-2026 (Monday): Started learning Spring Framework basics.
+
+- 10-March-2026 (Tuesday): Practiced Spring basics and environment setup.
+
+- 11-March-2026 (Wednesday): Began development using Spring REST APIs.
+
+- 12-March-2026 (Thursday): Practiced implementation of Spring REST APIs.
+
+- 13-March-2026 (Friday): Revised Spring and Spring REST API concepts.
+
+- 14-March-2026 (Saturday): Attended Power Skills Session.
+
+- 16-March-2026 (Monday): Reviewed previous concepts and strengthened understanding of Spring fundamentals.
+
+- 17-March-2026 (Tuesday): Started Spring Framework with focus on Multi-Layer Architecture.
+
+- 18-March-2026 (Wednesday): Attempted Mock Test and continued learning Spring concepts.
+
+- 20-March-2026 (Friday): Completed initial setup of Spring Employee Payroll Application.
+
+- 23-March-2026 (Monday): Prepared for Module 1 (M1) Assessment.
+
+- 24-March-2026 (Tuesday): Attempted M1 Test and implemented next use case for Employee Payroll Application.
+
+- 25-March-2026 (Wednesday): Started development of Address Book Application.
+
+- 26-March-2026 (Thursday): Completed use case implementation for Address Book Application.
