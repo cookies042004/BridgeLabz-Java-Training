@@ -96,6 +96,23 @@
 - **23-March-2026 (Monday):** Prepared for Module 1 (M1) Assessment.  
 - **24-March-2026 (Tuesday):** Attempted M1 Test and implemented next use case for Employee Payroll Application.  
 - **25-March-2026 (Wednesday):** Started development of Address Book Application.  
-- **26-March-2026 (Thursday):** Completed use case implementation for Address Book Application.  
+- **26-March-2026 (Thursday):** Completed use case implementation for Address Book Application.
+- **27-March-2026 (Friday):** Implemented next use cases for Address Book Application.
+- **28-March-2026 (Saturday):** Attended and practice soft skills session.
+- **30-March-2026 (Monday):** Implemented next use cases for Hospital Management System.
+- **31-March-2026 (Tuesday):** Started Learning Spring Security.  
 
 ---
+
+## 📅 April 2026
+- **01-April-2026 (Wednesday):** Started Practicing Spring Security.  
+- **02-April-2026 (Thursday):** Completed Spring Security.  
+- **03-April-2026 (Friday):** Started FundooNotes project.  
+- **04-April-2026 (Saturday):** Attended Power Skills Session.
+- **06-April-2026 (Monday):** Completed UC15 of QuantityMeasurementApp.  
+- **07-April-2026 (Tuesday):** Started Part2 of FundooNotes.  
+- **08-April-2026 (Wednesday):** Implemented the learned concepts in part2 of FundooNotes.  
+- **09-April-2026 (Thursday):** Learn about Redis + caching and implemented UC16 of QuantityMeasurementApp.
+
+---
+
