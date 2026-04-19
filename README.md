@@ -114,5 +114,15 @@
 - **08-April-2026 (Wednesday):** Implemented the learned concepts in part2 of FundooNotes.  
 - **09-April-2026 (Thursday):** Learn about Redis + caching and implemented UC16 of QuantityMeasurementApp.
 
+- **10-April-2026 (Friday):** Practice JMS and Redis and learn proper flow of it.  
+- **11-April-2026 (Saturday):** Attended Power Skills Session.
+- **13-April-2026 (Monday):** Learn about RabbitMQ and how it works.
+- **15-April-2026 (Wednesday):** Learn about Spring batch with excel.  
+- **16-April-2026 (Thursday):** Practice Spring batch with excel + also learn basic about microservices.
+- **17-April-2026 (Friday):** Learn About another concepts of microservices.  
+- **18-April-2026 (Saturday):** Attended Power Skills Session.
+
+
+
 ---
 
