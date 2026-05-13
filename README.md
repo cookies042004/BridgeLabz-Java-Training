@@ -105,24 +105,40 @@
 ---
 
 ## 📅 April 2026
-- **01-April-2026 (Wednesday):** Started Practicing Spring Security.  
-- **02-April-2026 (Thursday):** Completed Spring Security.  
-- **03-April-2026 (Friday):** Started FundooNotes project.  
-- **04-April-2026 (Saturday):** Attended Power Skills Session.
-- **06-April-2026 (Monday):** Completed UC15 of QuantityMeasurementApp.  
-- **07-April-2026 (Tuesday):** Started Part2 of FundooNotes.  
-- **08-April-2026 (Wednesday):** Implemented the learned concepts in part2 of FundooNotes.  
-- **09-April-2026 (Thursday):** Learn about Redis + caching and implemented UC16 of QuantityMeasurementApp.
 
-- **10-April-2026 (Friday):** Practice JMS and Redis and learn proper flow of it.  
-- **11-April-2026 (Saturday):** Attended Power Skills Session.
-- **13-April-2026 (Monday):** Learn about RabbitMQ and how it works.
-- **15-April-2026 (Wednesday):** Learn about Spring batch with excel.  
-- **16-April-2026 (Thursday):** Practice Spring batch with excel + also learn basic about microservices.
-- **17-April-2026 (Friday):** Learn About another concepts of microservices.  
-- **18-April-2026 (Saturday):** Attended Power Skills Session.
+* **01-April-2026 (Wednesday):** Started practicing Spring Security.
+* **02-April-2026 (Thursday):** Completed Spring Security.
+* **03-April-2026 (Friday):** Started FundooNotes project.
+* **04-April-2026 (Saturday):** Attended Power Skills Session.
+* **06-April-2026 (Monday):** Completed UC15 of QuantityMeasurementApp.
+* **07-April-2026 (Tuesday):** Started Part 2 of FundooNotes.
+* **08-April-2026 (Wednesday):** Implemented the learned concepts in Part 2 of FundooNotes.
+* **09-April-2026 (Thursday):** Learned about Redis and caching, and implemented UC16 of QuantityMeasurementApp.
+* **10-April-2026 (Friday):** Practiced JMS and Redis and learned their proper workflow.
+* **11-April-2026 (Saturday):** Attended Power Skills Session.
+* **13-April-2026 (Monday):** Learned about RabbitMQ and how it works.
+* **15-April-2026 (Wednesday):** Learned about Spring Batch with Excel.
+* **16-April-2026 (Thursday):** Practiced Spring Batch with Excel and also learned the basics of Microservices.
+* **17-April-2026 (Friday):** Learned more concepts of Microservices and started Bookstore E-Commerce.
+* **18-April-2026 (Saturday):** Attended Power Skills Session.
+* **20-April-2026 (Monday):** Completed infrastructure services and started working on Admin Service.
+* **21-April-2026 (Tuesday):** Completed Admin Service and started working on Common Library and User Service.
+* **22-April-2026 (Wednesday):** Completed Common Library and User Service and started working on Cart Service and Customer Service.
+* **24-April-2026 (Friday):** Completed Cart Service, Customer Service, Order Service, and Product Service, and started working on Notification Service.
+* **25-April-2026 (Saturday):** Attended Power Skills Session.
+* **27-April-2026 (Monday):** Completed working on Notification Service and started working on Wishlist Service and Feedback Service.
+* **28-April-2026 (Tuesday):** Completed working on infrastructure services and checked the code to ensure all API endpoints were working properly.
+* **29-April-2026 (Wednesday):** Checked all API endpoints and pushed the code for the E-Commerce Bookstore Microservice project to GitHub in a repository named `bookstore-microservices`.
+* **30-April-2026 (Thursday):** Started learning Cloud and AWS concepts.
 
+## 📅 May 2026
 
-
----
-
+* **02-May-2026 (Saturday):** Attended Power Skills Session.
+* **04-May-2026 (Monday):** Started working on the group project `Crypto-Portfolio-App` and completed the initial setup.
+* **05-May-2026 (Tuesday):** Completed Infrastructure Service and started Auth Service.
+* **06-May-2026 (Wednesday):** Implemented and tested login and register features.
+* **08-May-2026 (Friday):** Started Notification Service and checked the working of all API endpoints for the service.
+* **09-May-2026 (Saturday):** Attended recap Power Skills Session.
+* **11-May-2026 (Monday):** Resolved the GitHub SSH key issue and merge conflict issues.
+* **12-May-2026 (Tuesday):** Worked on Auth Service implementation for logout using Redis token blacklist and implemented admin features.
+* **13-May-2026 (Wednesday):** Completed UC18 and UC19 of QuantityMeasurementApp.
